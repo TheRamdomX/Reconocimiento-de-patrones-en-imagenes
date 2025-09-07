@@ -35,13 +35,6 @@ Este repositorio contiene los materiales y notebooks del curso electivo universi
 
 ---
 
-## Notas para futuras clases
-
-- Si agregas una nueva clase, incluye una celda markdown al inicio explicando brevemente los objetivos y temas tratados.
-- Si alguna clase no tiene explicación, añade una anotación similar a la de Clase 3.
-
----
-
 ## Requisitos
 
 - Python 3.12+
