@@ -33,6 +33,9 @@ Este repositorio contiene los materiales y notebooks del curso electivo universi
 ### Clase 8
 - **Tema:** Extracción y visualización de características de textura en colecciones de imágenes, agrupamiento y análisis comparativo de texturas.
 
+### Clase 9
+**Tema:** Segmentación mediante etiquetado de regiones, extracción de características (área y orientación), filtrado y visualización de gotas según criterios geométricos.
+
 ---
 
 ## Requisitos
