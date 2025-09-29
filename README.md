@@ -5,7 +5,7 @@ Este repositorio contiene los materiales y notebooks del curso electivo universi
 ## Estructura del repositorio
 
 - `IMG/`: Carpeta con imágenes de ejemplo utilizadas en los notebooks.
-- `Clase_X.ipynb`: Notebooks de cada clase, con ejemplos prácticos y explicaciones.
+- `Clases/Clase_X.ipynb`: Notebooks de cada clase, con ejemplos prácticos y explicaciones.
 
 ## Resumen de clases
 
@@ -59,3 +59,9 @@ Este repositorio contiene los materiales y notebooks del curso electivo universi
 ```bash
 pip install opencv-python numpy matplotlib scikit-image pandas scikit-learn
 ```
+
+## Tarea 1
+
+Descripción: esta tarea procesa una imagen de ejemplo (`IMG/sopa_letras.png`) para detectar regiones (letras), calcular momentos geométricos y de Hu, características basadas en perímetro, área, redondez y excentricidad, y finalmente crear un DataFrame con las características de cada región.
+
+
