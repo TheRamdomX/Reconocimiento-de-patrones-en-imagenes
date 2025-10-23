@@ -49,6 +49,30 @@ Este repositorio contiene los materiales y notebooks del curso electivo universi
 
 - **Tema:** Repaso general de los contenidos del curso. Carga y visualización de imágenes, procesamiento, segmentación, extracción de características y análisis de textura.
 
+### Clase 11
+
+- **Tema:** Análisis de Componentes Principales (KLT/PCA). Centrado de datos, cálculo de la matriz de covarianza, autovalores y autovectores, proyección sobre ejes principales y reconstrucción con pérdida de información.
+
+### Clase 12
+
+- **Tema:** Vector Quantization (VQ) y generación de codebooks. Implementación de VQ con divisiones binarias de centroides, cálculo de distancias euclidianas y visualización de codebooks sobre datos 2D.
+
+### Clase 13
+
+- **Tema:** Cálculo y visualización de medias por cluster y análisis exploratorio de datos multiclase. Separación de datos por clase y representación gráfica de centros y medias.
+
+### Clase 14
+
+- **Tema:** Extracción de características de textura mediante Haralick (GLCM). Cálculo de propiedades como contraste, disimilitud, homogeneidad, ASM y energía; comparación de combinaciones de características y cálculo del índice de Fisher.
+
+### Clase 15
+
+- **Tema:** Selección de características y criterio de Fisher. Implementación de funciones para calcular el índice de Fisher sobre conjuntos de texturas y búsqueda de la mejor combinación de características.
+
+### Clase 16
+
+- **Tema:** Ejemplo completo de extracción y clasificación con K-Vecinos Cercanos. Extracción de momentos invariantes de Hu y excentricidad desde regiones segmentadas (ej. `sopa_letras.png`), construcción de dataset y clasificación con KNN, incluyendo matriz de confusión.
+
 ---
 
 ## Requisitos
@@ -63,5 +87,9 @@ pip install opencv-python numpy matplotlib scikit-image pandas scikit-learn
 ## Tarea 1
 
 Descripción: esta tarea procesa una imagen de ejemplo (`IMG/sopa_letras.png`) para detectar regiones (letras), calcular momentos geométricos y de Hu, características basadas en perímetro, área, redondez y excentricidad, y finalmente crear un DataFrame con las características de cada región.
+
+## Tarea 2
+
+Descripción: este notebook realiza un análisis completo sobre la imagen `IMG/rice.png`, que incluye carga y visualización en color y gris, cálculo de color promedio, umbralización y etiquetado de regiones, extracción de descriptores geométricos (área, perímetro), gradiente promedio en perímetro, medidas de contraste (K1, K2, K3) y momentos invariantes de Hu. También incluye análisis de resultados y discusión sobre el efecto del ruido y la umbralización en el etiquetado de regiones.
 
 
