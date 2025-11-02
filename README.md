@@ -73,6 +73,14 @@ Este repositorio contiene los materiales y notebooks del curso electivo universi
 
 - **Tema:** Ejemplo completo de extracción y clasificación con K-Vecinos Cercanos. Extracción de momentos invariantes de Hu y excentricidad desde regiones segmentadas (ej. `sopa_letras.png`), construcción de dataset y clasificación con KNN, incluyendo matriz de confusión.
 
+### Clase 17
+
+- **Tema:** Linear Discriminant Analysis (LDA). Cálculo de medias por clase, matrices de covarianza intraclase e interclase, inversión de la matriz combinada y uso de la regla discriminante para asignación de nueva data.
+
+### Clase 18
+
+- **Tema:** Árboles de decisión e información. Cálculo de tablas de clases por atributo, entropía, ganancia de información y construcción básica de un árbol de decisión (junto con un ejemplo práctico usando scikit-learn sobre el dataset Iris).
+
 ---
 
 ## Requisitos
