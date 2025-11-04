@@ -6,6 +6,7 @@ Este repositorio contiene los materiales y notebooks del curso electivo universi
 
 - `IMG/`: Carpeta con imágenes de ejemplo utilizadas en los notebooks.
 - `Clases/Clase_X.ipynb`: Notebooks de cada clase, con ejemplos prácticos y explicaciones.
+- `TareaX/`: Notebooks y Enunciados de las tareas del curso
 
 ## Resumen de clases
 
@@ -86,15 +87,6 @@ Este repositorio contiene los materiales y notebooks del curso electivo universi
 - **Tema:** Implementación y explicación de un Clasificador Inexperto de Bayes (Naive Bayes) aplicado a ejemplos didácticos; incluye código para cálculo de probabilidades, corrección de Laplace y evaluación con validación cruzada.
 
 ---
-
-## Requisitos
-
-- Python 3.12+
-- Instalar dependencias en el entorno virtual `myenv`:
-
-```bash
-pip install opencv-python numpy matplotlib scikit-image pandas scikit-learn
-```
 
 ## Tarea 1
 
