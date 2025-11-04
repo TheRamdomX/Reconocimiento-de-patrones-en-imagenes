@@ -81,6 +81,10 @@ Este repositorio contiene los materiales y notebooks del curso electivo universi
 
 - **Tema:** Árboles de decisión e información. Cálculo de tablas de clases por atributo, entropía, ganancia de información y construcción básica de un árbol de decisión (junto con un ejemplo práctico usando scikit-learn sobre el dataset Iris).
 
+### Clase 19
+
+- **Tema:** Implementación y explicación de un Clasificador Inexperto de Bayes (Naive Bayes) aplicado a ejemplos didácticos; incluye código para cálculo de probabilidades, corrección de Laplace y evaluación con validación cruzada.
+
 ---
 
 ## Requisitos
@@ -99,5 +103,9 @@ Descripción: esta tarea procesa una imagen de ejemplo (`IMG/sopa_letras.png`) p
 ## Tarea 2
 
 Descripción: este notebook realiza un análisis completo sobre la imagen `IMG/rice.png`, que incluye carga y visualización en color y gris, cálculo de color promedio, umbralización y etiquetado de regiones, extracción de descriptores geométricos (área, perímetro), gradiente promedio en perímetro, medidas de contraste (K1, K2, K3) y momentos invariantes de Hu. También incluye análisis de resultados y discusión sobre el efecto del ruido y la umbralización en el etiquetado de regiones.
+
+## Tarea 3
+
+Descripción: en esta tarea se extraen descriptores de textura (características Haralick) de un conjunto de texturas, se normalizan las características, se realiza selección de características mediante SBS y criterio de Fisher, y se aplica Vector Quantization (KMeans) para reducir el número de muestras y visualizar centroides representativos.
 
 
