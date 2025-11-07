@@ -86,6 +86,10 @@ Este repositorio contiene los materiales y notebooks del curso electivo universi
 
 - **Tema:** Implementación y explicación de un Clasificador Inexperto de Bayes (Naive Bayes) aplicado a ejemplos didácticos; incluye código para cálculo de probabilidades, corrección de Laplace y evaluación con validación cruzada.
 
+### Clase 20
+
+- **Tema:** Métodos numéricos y aprendizaje básico de redes: ejemplo práctico de Newton-Raphson para resolución de raíces y un ejemplo didáctico de Backpropagation en una neurona simple (actualización de pesos y convergencia).
+
 ---
 
 ## Tarea 1
@@ -99,5 +103,3 @@ Descripción: este notebook realiza un análisis completo sobre la imagen `IMG/r
 ## Tarea 3
 
 Descripción: en esta tarea se extraen descriptores de textura (características Haralick) de un conjunto de texturas, se normalizan las características, se realiza selección de características mediante SBS y criterio de Fisher, y se aplica Vector Quantization (KMeans) para reducir el número de muestras y visualizar centroides representativos.
-
-
